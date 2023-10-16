@@ -21,4 +21,4 @@ model
 [wav2vec 2.0: A Framework for Self-Supervised
 Learning of Speech Representations](https://arxiv.org/pdf/2006.11477.pdf)
 [xlsr_wav2vec2](https://huggingface.co/docs/transformers/model_doc/xlsr_wav2vec2)  
-(wav2vec2)[https://huggingface.co/docs/transformers/model_doc/wav2vec2]
+[wav2vec2](https://huggingface.co/docs/transformers/model_doc/wav2vec2)
