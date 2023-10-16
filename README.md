@@ -34,12 +34,22 @@ Learning of Speech Representations](https://arxiv.org/pdf/2006.11477.pdf)
 Разделение происходило с помощью обычного train_test_split с соотношением 80/20, со стратификацией по эмоциям и random_state=101.
 
 ### Таблицы с метриками  
-<figure style="text-align: center;">
-  <div style="display: inline-block; position: relative;">
-    <img src="https://raw.githubusercontent.com/Uberwald/VK-Voice-AI-Research-2023/main/classification_report.bmp" alt="Таблица 1">
-    <figcaption style="position: absolute; top: 0; left: 0; width: 100%; text-align: center;">Метрики, посчитанные на валидационном датасете</figcaption>
-  </div>
-</figure>
+<figure>
+  <img
+  src="https://raw.githubusercontent.com/Uberwald/VK-Voice-AI-Research-2023/main/classification_report.bmp"
+  >
+  <figcaption>Таблица 1 - Метрики, посчитанные на валидацинном датасете</figcaption>
+</figure>  
+
+### График обучения модели
+<figure>
+  <img
+  src="https://raw.githubusercontent.com/Uberwald/VK-Voice-AI-Research-2023/main/classification_report.bmp"
+  >
+  <figcaption>Таблица 1 - Метрики, посчитанные на валидацинном датасете</figcaption>
+</figure>  
+
+
 
 
 
