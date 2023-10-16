@@ -18,5 +18,7 @@ model
 Ссылки:  
 
 [Emotion_recognition_in_Greek_speech_using_Wav2Vec2](https://colab.research.google.com/github/m3hrdadfi/soxan/blob/main/notebooks/Emotion_recognition_in_Greek_speech_using_Wav2Vec2.ipynb#scrollTo=4TkGYrVTFR6Y)  
-https://huggingface.co/docs/transformers/model_doc/xlsr_wav2vec2  
-https://huggingface.co/docs/transformers/model_doc/wav2vec2
+[wav2vec 2.0: A Framework for Self-Supervised
+Learning of Speech Representations](https://arxiv.org/pdf/2006.11477.pdf)
+(xlsr_wav2vec2)(https://huggingface.co/docs/transformers/model_doc/xlsr_wav2vec2)  
+(wav2vec2)[https://huggingface.co/docs/transformers/model_doc/wav2vec2]
