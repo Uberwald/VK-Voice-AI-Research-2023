@@ -37,9 +37,9 @@ Learning of Speech Representations](https://arxiv.org/pdf/2006.11477.pdf)
 <figure>
   <img
   src="https://raw.githubusercontent.com/Uberwald/VK-Voice-AI-Research-2023/main/classification_report.bmp"
-  alt="The beautiful MDN logo.">
-  <figcaption>MDN Logo</figcaption>
-</figure>
+  >
+  <figcaption>Таблица 1 - Метрики, посчитанные на валидацинном датасете</figcaption>
+</figure>  
 
-![Таблица 1 Был использован classification_report]()
+
 
