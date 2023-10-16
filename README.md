@@ -14,3 +14,8 @@ model
 * Необходимость писать свой классификатор
 
 ### Обоснованность данного решения
+Это решение было выбрано ввиду его доступности: ссылка на похожую модель, но для греческого языка была на главной странице Hugging face wav2vec2. Изачально планировалось взять эту модель как baseline, однако настройка модели для этих данных заняла некоторое время: например, в данном решении был использован resampler от librosa, а не torchaudio. 
+Ссылки:
+https://colab.research.google.com/github/m3hrdadfi/soxan/blob/main/notebooks/Emotion_recognition_in_Greek_speech_using_Wav2Vec2.ipynb#scrollTo=4TkGYrVTFR6Y
+https://huggingface.co/docs/transformers/model_doc/xlsr_wav2vec2
+https://huggingface.co/docs/transformers/model_doc/wav2vec2
