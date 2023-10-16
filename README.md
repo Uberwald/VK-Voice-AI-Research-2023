@@ -52,8 +52,12 @@ Learning of Speech Representations](https://arxiv.org/pdf/2006.11477.pdf)
 ### Идеи по дальнейшему решению задачи
 1) Попробовать различные стратегии слияния для (merge strategies) для XLSR модели
 2) Попробовать более экстрмеальные параметры обучения (уменьшить размер батча, увеличить per_device_eval_batch_size)
-3) Использовать другие модели, такие как:
+3) Использовать для сравнения другие модели, такие как:
    + DeepMoji
+   + OpenSMILE
+   + Affective Computing с использованием Convolutional Neural Networks
+   + EmoReact
+   + VGGish 
 
 
 
