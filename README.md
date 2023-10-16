@@ -22,3 +22,13 @@ model
 Learning of Speech Representations](https://arxiv.org/pdf/2006.11477.pdf)  
 [xlsr_wav2vec2](https://huggingface.co/docs/transformers/model_doc/xlsr_wav2vec2)  
 [wav2vec2](https://huggingface.co/docs/transformers/model_doc/wav2vec2)  
+
+### Особенности датасета RAVDESS и разделение датасета на train val  
+Особенности:  
+* 24 актера озвучки с нейтральным северо-американским акцентом
+* 8 различных эмоций
+* Различная интенсивность (сила) голоса
+* По две записи каждой эмоции
+* Две разных фразы ("Kids are talking by the door", "Dogs are sitting by the door")
+
+Разделение происходило с помощью обычного train_test_split с соотношением 80/20, со стратификацией по эмоциям и random_state=101.
