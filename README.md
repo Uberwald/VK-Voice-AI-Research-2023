@@ -35,5 +35,5 @@ Learning of Speech Representations](https://arxiv.org/pdf/2006.11477.pdf)
 
 ###Таблицы с метриками  
 Был использован classification_report    
-(https://raw.githubusercontent.com/Uberwald/VK-Voice-AI-Research-2023/main/classification_report.bmp)
+[](https://raw.githubusercontent.com/Uberwald/VK-Voice-AI-Research-2023/main/classification_report.bmp)
 
