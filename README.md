@@ -44,7 +44,7 @@ Learning of Speech Representations](https://arxiv.org/pdf/2006.11477.pdf)
 ### График обучения модели
 <figure>
   <img
-  src="https://raw.githubusercontent.com/Uberwald/VK-Voice-AI-Research-2023/main/classification_report.bmp"
+  src="chart.png"
   >
   <figcaption>Таблица 1 - Метрики, посчитанные на валидацинном датасете</figcaption>
 </figure>  
