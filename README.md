@@ -46,7 +46,7 @@ Learning of Speech Representations](https://arxiv.org/pdf/2006.11477.pdf)
   <img
   src="chart.png"
   >
-  <figcaption>Таблица 1 - Метрики, посчитанные на валидацинном датасете</figcaption>
+  <figcaption>Рисунок 1 - Графики потерь на тренировочных и валидационных данных</figcaption>
 </figure>  
 
 
