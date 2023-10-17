@@ -1,6 +1,6 @@
 # VK-Voice-AI-Research-2023
 ## Содержимое репозитория
-1) model - в этой папке содержаться файлы обученной модели, кроме pytorch_model.bin, который можно скачать по этой ссылке:  
+1) model - папка с файлами обученной модели, но нужно докачать pytorch_model.bin по этой ссылке:  
 https://drive.google.com/open?id=1C2snmPVjC81AqJTtmsIFG9o6Equ_pFSx&usp=drive_fs  
 Также в этой папке содержиться блокнот "model_train.ipynb" с тренировочной моделью и файл с loss: loss.txt
 2) Prediction.ipynb - блокнот с обученной моделью, используемый для тестовых данных
