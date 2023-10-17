@@ -7,6 +7,8 @@ https://drive.google.com/open?id=1C2snmPVjC81AqJTtmsIFG9o6Equ_pFSx&usp=drive_fs
 2) Prediction.ipynb - блокнот с обученной моделью, используемый для тестовых данных
 3) results.txt - файл с предсказаниями для тестового датасета из test_emotion_dataset.zip
 
+Файлы для обучения скачиваются из Google Drive.
+
 
 ### Плюсы и минусы решения задачи классификации эмоций в аудио с помощью wav2vec2.0. 
 #### Плюсы
