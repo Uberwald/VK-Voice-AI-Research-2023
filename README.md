@@ -3,6 +3,7 @@
 1) model - папка с файлами обученной модели, но нужно докачать pytorch_model.bin по этой ссылке:  
 https://drive.google.com/open?id=1C2snmPVjC81AqJTtmsIFG9o6Equ_pFSx&usp=drive_fs  
 Также в этой папке содержиться блокнот "model_train.ipynb" с тренировочной моделью и файл с loss: loss.txt
+Для обучения модели нужно подключиться сменить среду выполнения на Т4 GPU
 2) Prediction.ipynb - блокнот с обученной моделью, используемый для тестовых данных
 3) results.txt - файл с предсказаниями для тестового датасета из test_emotion_dataset.zip
 
