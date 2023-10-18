@@ -66,7 +66,7 @@ Learning of Speech Representations](https://arxiv.org/pdf/2006.11477.pdf)
    + Affective Computing с использованием Convolutional Neural Networks
    + EmoReact
    + VGGish 
-
+4) Попробовать кросс-валидацию
 
 
 
